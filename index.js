@@ -11,7 +11,6 @@ const taskDescriptions = [];
 //   taskComplete.push(false);
 // }
 
-
 function newTask(title, description) {
   const task = {
     title: title,
